@@ -1,12 +1,10 @@
-# Desarrollo del Proyecto 1
+# Desarrollo del Proyecto para la materia Desarrollo Web Backend
+- Bruno Martinez Enriquez
 
-- Bruno Martinez Enriquez - 316126597
+# Anotaciones
+- Lenguaje de programación: Java
+- Framework: Spring
 
----
-
-## Anotaciones 
-
-- Tuve problemas con utilizar config-data y tuve que utilizar variables de entorno para poner mi usuario y contraseña de bitbucket.
 
 
 
